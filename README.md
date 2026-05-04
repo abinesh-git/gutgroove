@@ -83,16 +83,7 @@ Open `notebooks/01_explore.ipynb` and run top to bottom.
 - [ ] UI improvements
 - [ ] Deployment
 - [ ] BLE integration
-````
-````
 
-Push it:
-
-````bash
-git add README.md
-git commit -m "add README"
-git push
-````
 ## Run the notebook
 
 ```bash
